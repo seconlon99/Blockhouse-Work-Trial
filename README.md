@@ -1,1 +1,1 @@
-This repo contains the code for the BH Work Trial Task
+This repo contains the code for the optimizing block trade execution
