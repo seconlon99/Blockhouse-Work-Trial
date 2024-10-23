@@ -1,1 +1,1 @@
-This repo contains the code for the optimizing block trade execution
+This repo contains the code for optimizing block trade execution.
